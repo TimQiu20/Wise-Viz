@@ -1,0 +1,186 @@
+Button.postTitle:hover {
+    color: #428bca;
+    text-decoration: none;
+}
+
+Button.userInfoPUsername:hover {
+    color: #428bca;
+    text-decoration: none;
+}
+
+Button.deleteBtn:hover {
+    color: #428bca;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.buttons {
+    flex: 1;
+    border: none;
+}
+
+.content {
+    padding: 10px;
+}
+
+.currentPageButton{
+    width: 45px;
+    margin: 3px !important;
+    background: #3949ab;
+    font-size: 100%;
+    font-style: italic;
+    word-wrap: break-word;
+    word-break: normal;
+    color: #ffffff;
+    outline: none;
+}
+
+.container{
+    flex-wrap: nowrap | wrap | wrap-reverse;
+}
+
+.deleteBtn{
+    color: yellow;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    background-color: gray;
+}
+
+.fieldset{
+    background-color: #FFFFFF;
+    border: 1px solid #7986cb;
+}
+
+form{
+    align-items: center;
+}
+
+.grid{
+    height: 500px;
+    overflow: scroll;
+    border: #ffffff solid;
+}
+
+.h2ForPostTitle{
+    margin: 0;
+    padding: 0;
+}
+
+.help{
+    cursor: pointer;
+    color: blue;
+}
+
+legend{
+    background-color: blue;
+    color: #ffffff;
+}
+
+.postTitleText{
+    width: 100%;
+}
+
+.postButtons{
+    float: right;
+    width: 20%;
+}
+
+.postFieldset{
+    width: 90%;
+    background-color: #FFFFFF;
+    border: 1px solid #7986cb;
+}
+
+.postArticle{
+    align-items: center;
+}
+
+.postTitle{
+    font-size: 30px;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    width: 95%;
+    margin: 0;
+    padding: 0;
+    color: #444444;
+    background: #ffffff;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.postContentLayout{
+    width: 85%;
+}
+
+.postContent{
+    margin: 0;
+    padding: 5px;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}
+
+.pageButtons{
+    flex-wrap: nowrap | wrap | wrap-reverse;
+}
+
+.pageButton{
+    width: 35px;
+    margin: 2px !important;
+    background: #7986cb;
+    font-size: 100%;
+    font-style: italic;
+    word-wrap: break-word;
+    word-break: normal;
+    outline: none;
+}
+
+.postProfile{
+    display: inline-flex;
+}
+
+.roundedCircleArticleImg{
+    margin-right: 15px;
+    width: 10%;
+    height: 10%;
+}
+
+.textarea{
+    width: 98.5%;
+    border: 1px solid lightgray;
+    font-size: 18px;
+}
+
+.userInfoDiv{
+    display: inline-flex;
+    width: 100%;
+}
+
+.userInfoP{
+    margin: 0;
+    margin-right: 5px;
+    padding: 0;
+}
+
+.userInfoPUsername{
+    margin: 0;
+    margin-right: 5px;
+    padding: 0;
+    color: #3949ab;
+    text-decoration: none;
+    border: none;
+    font-size: 15px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+.userPostTitle{
+    text-align: center;
+    color: #ffffff;
+}

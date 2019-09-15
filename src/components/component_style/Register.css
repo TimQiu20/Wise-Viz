@@ -1,0 +1,66 @@
+.newUser {
+    padding: 10px;
+}
+
+.buttons {
+    width: 100px;
+    flex: 1;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: none;
+}
+
+.registerText {
+    width: 200px;
+    background: #8c9eff;
+}
+
+.roundedCircleArticleImg {
+    border-radius: 50%;
+    height: 10%;
+    width: 10%;
+}
+
+.eventForm {
+    text-align: center;
+}
+
+.pageNumTextField{
+}
+
+p.forgetPassword:hover {
+    color: yellow;
+    text-decoration: none;
+}
+
+.picture{
+    font-size: 20px;
+    text-align: center;
+}
+
+.changePageD{
+    display: inline-grid;
+}
+
+.error{
+    color: red;
+}
+
+.forgetPassword{
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.sendEmail{
+    width: 90%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: #ffffff;
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+}

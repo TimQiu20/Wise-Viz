@@ -1,0 +1,41 @@
+.root {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.menuButton {
+    margin-left: -12px;
+    margin-right: 20px;
+}
+
+.layout{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.titleAndHome{
+    margin-left: 2%;
+    display: inline-flex;
+}
+
+.title{
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.account{
+    margin-left: 0%;
+}
+
+.accountFormat{
+    display: inline-flex;
+}
+
+.roundedCircleArticleImgNavBar{
+    border-radius: 50%;
+    height: 90%;
+    width: 40px;
+    margin: 3px;
+}
